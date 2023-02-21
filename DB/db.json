@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "trongnhan34vn@gmail.com",
+      "password": "$2a$10$RLv8sTKFiapJBi5I4y3SAOD/RrVcJadC3VfHJU9csfBWbRZY9cXLm",
+      "fullname": "Nguyễn Trọng Nhân",
+      "age": 24,
+      "id": 2
+    },
+    {
+      "email": "nttt2808@gmail.com",
+      "password": "$2a$10$hipi4yH9OG/mYKwbIBz6H.hAveVfInNbWHxHwYhmjrlSKM20tEs8S",
+      "fullname": "ttm6t",
+      "id": 4
+    }
+  ]
+}
